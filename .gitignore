@@ -1,0 +1,15 @@
+# Ignore dataset files (optional, if not included in GitHub)
+data/*.csv
+
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore Jupyter Notebook checkpoints
+notebooks/.ipynb_checkpoints
+
+# Ignore saved models (optional)
+models/*.pkl
+
+# Ignore virtual environment (if used)
+venv/
+ 
